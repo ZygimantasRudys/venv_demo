@@ -1,6 +1,7 @@
 # VENV DEMO PROJECT
 
 ## How to Launch
+- install (if needed) and configure python 3.12
 - git clone http://...
 - cd venv_demo
 - open in pycharm/vscode
